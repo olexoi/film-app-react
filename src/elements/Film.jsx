@@ -21,10 +21,10 @@ function Film() {
             <Header />
             <Container className="film-content">
                 <Row>
-                    <div className="col-6 d-flex justify-content-center align-items-start">
+                    <div className="col-12 col-md-6 d-flex justify-content-center align-items-start">
                        <img src={filmData.poster} alt={filmData.title} className="film-img" />
                     </div>
-                    <div className="col-6">
+                    <div className="col-12 col-md-6 film-description">
                         <h2>{filmData.title}</h2>
                         <p className="genre">{filmData.genre}</p>
                         <p>{filmData.year}</p>

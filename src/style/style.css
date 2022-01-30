@@ -286,6 +286,10 @@ header .header a:hover {
   margin-bottom: 170px;
 }
 
+.film-wrapper .film-content .film-description {
+  position: relative;
+}
+
 .film-wrapper .film-content .film-img {
   border-radius: 15px;
 }
