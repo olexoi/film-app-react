@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/film-app-react/static/css/main.dab21d42.css",
+    "main.js": "/film-app-react/static/js/main.d5bd9130.js",
+    "static/js/787.003a71b9.chunk.js": "/film-app-react/static/js/787.003a71b9.chunk.js",
+    "static/media/logo.svg": "/film-app-react/static/media/logo.b1fec3dc5188e5093842ca980c6b2a6c.svg",
+    "index.html": "/film-app-react/index.html",
+    "main.dab21d42.css.map": "/film-app-react/static/css/main.dab21d42.css.map",
+    "main.d5bd9130.js.map": "/film-app-react/static/js/main.d5bd9130.js.map",
+    "787.003a71b9.chunk.js.map": "/film-app-react/static/js/787.003a71b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab21d42.css",
+    "static/js/main.d5bd9130.js"
+  ]
+}
